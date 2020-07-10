@@ -2,13 +2,21 @@
 
 ****Train Scores****
  'KNN-jaccard': 0.8034682080924855,
+ 
  'KNN-f1-score': 0.7930445292892236,
+ 
  'Tree-jaccard': 0.9277456647398844,
+ 
  'Tree-f1-score': 0.9289057526172052,
+ 
  'SVM-jaccard': 0.7687861271676301,
+ 
  'SVM-f1-score': 0.683672614559772,
+ 
  'LogReg-jaccard': 0.7630057803468208,
+ 
  'LogReg-f1-score': 0.7088399037150602,
+ 
  'LogReg-logLoss': 0.43174993676801543
  
  ****Test Scores****
